@@ -1,0 +1,164 @@
+body {
+  background-color: dimgray;
+  text-align: center;
+}
+
+.App {
+  text-align: center;
+}
+
+.loading-style {
+  margin: 300px auto;
+}
+
+.form-style {
+  background-color: gray;
+  margin: auto;
+  width: 400px;
+  height: 310px;
+  align-items: center;
+  margin-top: 200px;
+  border-radius: 10px;
+}
+
+.signup-form-style {
+  background-color: gray;
+  margin: auto;
+  width: 400px;
+  align-items: center;
+  margin-top: 70px;
+  border-radius: 10px;
+}
+
+.h2-style {
+  text-align: center;
+  color: aquamarine;
+}
+
+.link-style {
+  margin-left: 150px;
+  background-color: darkorange;
+  padding: 6.5px 7px 9.5px 7px;
+  text-align: center;
+  border-radius: 4px;
+  color: black;
+}
+
+.link-login-style {
+  margin-left: 150px;
+  background-color: darkorange;
+  padding: 6.5px 18px 9.5px 18px;
+  text-align: center;
+  border-radius: 4px;
+  color: black;
+}
+
+.header-style {
+  text-align: center;
+  align-items: center;
+  color: darkgreen;
+}
+
+.label-style {
+  color: white;
+  padding: 4px;
+  margin-left: -280px;
+}
+
+.label-style1 {
+  color: white;
+  padding: 4px;
+  margin-left: -310px;
+}
+
+.label-style2 {
+  color: white;
+  padding: 4px;
+  margin-left: -350px;
+}
+
+.label-style3 {
+  color: white;
+  padding: 4px;
+  margin-left: -320px;
+}
+
+.btn-style {
+  margin: 10px auto;
+  margin-bottom: 25px;
+}
+
+.modal-style {
+  margin: 100px auto;
+}
+
+.modal-dialog-style {
+  width: 580px;
+  padding: 30px;
+}
+
+.modal-title-style {
+  color: darkblue;
+}
+
+.input-modal-style {
+  border-radius: 8px;
+  border-width: 3px;
+  border-color: darkturquoise;
+}
+
+.form-lbl-style {
+  margin-left: -300px;
+}
+
+.list-style {
+  margin-bottom: 40px !important;
+  margin: auto;
+  text-align: left;
+  width: 500px;
+}
+
+.list-btn-style {
+  margin-right: 15px;
+}
+
+.input-search-style {
+  margin: 10px auto;
+  background-color: gainsboro;
+  border-radius: 6px;
+  border-width: 3px;
+  border-color: aqua;
+  height: 38px;
+  margin-right: 10px;
+}
+
+.input-search-style:hover {
+  margin: 10px auto;
+  background-color: whitesmoke;
+  border-radius: 6px;
+  border-width: 3px;
+  border-color: aqua;
+  height: 38px;
+  margin-right: 10px;
+}
+
+.btn-search-style {
+  margin: 10px auto;
+  height: 38px;
+  border-width: 3px;
+  border-color: white;
+  background-color: aquamarine;
+  text-align: center;
+  border-radius: 10px;
+}
+
+.btn-search-style:hover {
+  margin: 10px auto;
+  height: 38px;
+  border-width: 3px;
+  border-color: whitesmoke;
+  background-color: black;
+  color: aqua;
+  text-align: center;
+  border-radius: 10px;
+}
