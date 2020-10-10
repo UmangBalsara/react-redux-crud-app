@@ -57,6 +57,8 @@ npm installation
 
 Run code
 
-1)cd react-project
+1)npm install
 
-2)npm start
+2)cd react-project
+
+3)npm start
