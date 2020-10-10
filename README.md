@@ -1,6 +1,5 @@
 # react-redux-crud-app
 
-
 1)Add Routing using react-router-dom.
 
 2)Add lazy loading and suspense fallback.
@@ -30,6 +29,8 @@
 	2)Edit : Update your filed	
 	
 	3)Delete : Delete your filed
+	
+10)Search Project 
 
 All the above implementation is created using React-Redux.
 
